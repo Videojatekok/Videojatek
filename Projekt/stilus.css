@@ -94,43 +94,6 @@ body{
 
 #NAVSÁV
 
-.navbar{
-    max-width: 900px;
-    
-}
-
-.navbar ul{
-    list-style-type: none;
-    background-color: #101820;
-    margin: 5px;
-    padding: 5px;
-    overflow: hidden;
-    border: #101820 solid 1px;
-    border-radius: 8px;
-    
-}
-
-.navbar a{
-    color: white;
-    text-decoration: none;
-    padding: 15px;
-    display: block;
-    text-align: center;
-    font-size: 20px;
-}
-.navbar a:hover{
-    background-color:rgb(138, 105, 38) ;
-}
-
-
-.navbar li{
-    float: left;
-    
-}
-
-#legenda a:hover{
-    background-color:rgb(217, 79, 24)
-}
 
 
 #SZOVEGEKESKEPEK
