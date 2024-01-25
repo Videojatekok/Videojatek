@@ -2,20 +2,20 @@ body{
     background-image: url(kepek/alaphtmlkepek/flat-design-pixel-art-cloud-illustration_23-2150176371.jpg);
     background-repeat: repeat-y;
     background-size: contain;
-    max-width: 1000px;
+    max-width: 1200px;
     font-size: 20px;
     margin: auto;
     text-align: justify;
-    color: black;
+    color: white;
+    
 }
 
 #hatter{
-    background-color: #ddcb2c;
+    background-color: #555756;
     margin-left: 25px;
     margin-right: 25px;
     padding: 25px;
-    
-    
+    border-radius: 3px;
 }
 
 #intro{
