@@ -1,7 +1,7 @@
 body{
-    background-image: url(kepek/alaphtmlkepek/hatter.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(kepek/alaphtmlkepek/flat-design-pixel-art-cloud-illustration_23-2150176371.jpg);
+    background-repeat: repeat-y;
+    background-size: contain;
     max-width: 1000px;
     font-size: 20px;
     margin: auto;
