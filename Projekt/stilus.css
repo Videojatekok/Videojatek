@@ -1,8 +1,11 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-image: url(kepek/alaphtmlkepek/flat-design-pixel-art-cloud-illustration_23-2150176371.jpg);
     background-repeat: repeat-y;
     background-size: contain;
-    max-width: 1200px;
+    max-width: 1400px;
     font-size: 20px;
     margin: auto;
     text-align: justify;
@@ -11,7 +14,7 @@ body{
 }
 
 #hatter{
-    background-color: #555756;
+    background-color: rgb(32, 32, 104);
     margin-left: 25px;
     margin-right: 25px;
     padding: 25px;
