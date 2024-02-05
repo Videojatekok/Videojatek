@@ -108,20 +108,18 @@ h1{
 }
 h2{
     text-align: center;
-    font-family: 'Nova Square', sans-serif;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Exo 2', sans-serif;
 }
 h3{
     text-indent: 10px;
-    font-family: 'Bebas Neue', sans-serif;
-    font-family: 'Nova Square', sans-serif;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Exo 2', sans-serif;
 
 }
 
 p{
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Alegreya Sans', sans-serif;
 }
+
 .bal{
     float: left;
 }
@@ -131,8 +129,6 @@ p{
 }
 
 img{
-    width: 400px;
-    height: 300px;
     margin: 15px;
     border-radius: 8px;
     display: flex;
@@ -156,9 +152,4 @@ img{
 .card{
     background-color: rgb(32, 32, 104);
     border: none;
-    margin-top: 15px;
-}
-
-#elso-kep{
-    height: 16rem;
 }
