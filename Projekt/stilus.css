@@ -10,15 +10,14 @@ body{
     margin: auto;
     text-align: justify;
     color: white;
-    
 }
 
 #hatter{
     background-color: rgb(32, 32, 104);
     margin-left: 25px;
     margin-right: 25px;
-    padding: 25px;
-    border-radius: 3px;
+    padding: 18px;
+    border-radius: 4px;
 }
 
 #intro{
@@ -106,7 +105,6 @@ h1{
     text-align: center;
     color: black;
     font-family: 'Anton', sans-serif;
-    
 }
 h2{
     text-align: center;
@@ -136,9 +134,9 @@ img{
     width: 400px;
     height: 300px;
     margin: 15px;
-    border: #101820 solid 0.5px;
     border-radius: 8px;
     display: flex;
+    border: 3px inset rgb(208, 232, 240);
 }
 
 .doboz{
@@ -153,4 +151,14 @@ img{
     border: #101820 solid 0.5px;
     border-radius: 8px;
     display: flex;
+}
+
+.card{
+    background-color: rgb(32, 32, 104);
+    border: none;
+    margin-top: 15px;
+}
+
+#elso-kep{
+    height: 16rem;
 }
