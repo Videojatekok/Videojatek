@@ -94,12 +94,6 @@ body{
     background-color: rgb(10, 151, 10);
 }
 
-#NAVSÁV
-.navbar{
-    background-color: black;
-    border-radius: 5px;
-}
-
 #SZOVEGEKESKEPEK
 
 .header1{
@@ -153,10 +147,12 @@ img{
 
 .card_first_page{
     background-color: rgb(32, 32, 104);
-    border: none;
 }
 
 .card_second_page{
     background-color:#CC0000;
     border: none;
+}
+.navbar{
+    border-radius: 1px
 }
