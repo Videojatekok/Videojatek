@@ -156,3 +156,12 @@ img{
 .navbar{
     border-radius: 1px
 }
+
+.nav-link:hover{
+    border-bottom: 2px solid aqua;
+    font-weight: bold;
+}
+
+.nav-link{
+    transition: all 0.2s;
+}
