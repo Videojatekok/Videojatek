@@ -8,7 +8,7 @@ body{
     max-width: 85rem;
     font-size: 20px;
     margin: auto;
-
+    text-align: justify;
     color: white;
 }
 
@@ -94,6 +94,11 @@ body{
     background-color: rgb(10, 151, 10);
 }
 
+#NAVSÁV
+.navbar{
+    background-color: black;
+}
+
 #SZOVEGEKESKEPEK
 
 .header1{
@@ -147,21 +152,25 @@ img{
 
 .card_first_page{
     background-color: rgb(32, 32, 104);
+    border: none;
 }
 
 .card_second_page{
     background-color:#CC0000;
     border: none;
 }
-.navbar{
-    border-radius: 1px
+
+.card_third_page{
+    background-color: rgb(130, 126, 126);
+    border: none;
 }
 
-.nav-link:hover{
-    border-bottom: 2px solid aqua;
-    font-weight: bold;
+.card_fourth_page{
+    background-color: #29ADB2;
+    border: none;
 }
 
-.nav-link{
-    transition: all 0.2s;
+.card_fifth_page{
+    background-color: rgb(10, 151, 10);
+    border: none;
 }
