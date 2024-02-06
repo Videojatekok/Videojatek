@@ -16,7 +16,7 @@ body{
     margin-left: 25px;
     margin-right: 25px;
     padding: 18px;
-    border-radius: 4px;
+    border-radius: 3px;
 }
 
 #intro{
@@ -40,6 +40,7 @@ body{
     margin-left: 25px;
     margin-right: 25px;
     padding: 25px;
+    border-radius: 3px;
 }
 
 #pacmanbody{
@@ -58,12 +59,14 @@ body{
     padding: 25px;
     background-color: #29ADB2;
     color: black;
+    border-radius: 3px;
 }
 #doomhatter{
     margin-left: 25px;
     margin-right: 25px;
     padding: 25px;
     background-color: rgb(130, 126, 126);
+    border-radius: 3px;
 }
 #doombody{
     background-repeat: no-repeat;
@@ -91,6 +94,7 @@ body{
     margin-right: 25px;
     padding: 25px;
     background-color: rgb(10, 151, 10);
+    border-radius: 3px;
 }
 
 #NAVSÁV
