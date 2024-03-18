@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+
+h2.score{
+    float: left;
+}
+
+h2.bestScore{
+    float: right;
+}
+
+h2.timeLeft{
+    clear: both;
+}
+
+.wrapper{
+    width: 620px;
+    margin: 0 auto;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.grid{
+    width: 620px;
+    height: 620px;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.mole{
+    background-image: url('mole.jpg');
+    background-size: cover;
+}
+
+.startGame{
+    position: absolute;
+    top: 50%;
+    width: 620px;
+    text-align: center;
+    background-color: green;
+    font-size: 40px;
+    color: white;
+    padding: 10px 0;
+    cursor: pointer;
+}
