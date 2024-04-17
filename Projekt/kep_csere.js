@@ -14,7 +14,6 @@ function PongnextFace(){
 
 
 
-
 function SpacenextFace(){
     space.src=`kepek/alaphtmlkepek/space_${faceNumber}.png`;
     faceNumber++;
