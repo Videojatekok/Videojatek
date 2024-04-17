@@ -1,11 +1,13 @@
 let cards = document.getElementsByClassName('backgroundChange');
 
 function backgroundChangeOnHover(event) {
-    event.currentTarget.style.border = '1px solid black'; // Using currentTarget instead of target
+    event.currentTarget.style.border = '2px groove white'; 
+    event.currentTarget.style.backgroundColor = 'rgb(20, 20, 130)';
 }
 
 function backgroundChangeOnLeave(event) {
-    event.currentTarget.style.border = ''; // Using currentTarget instead of target
+    event.currentTarget.style.border = ''; 
+    event.currentTarget.style.backgroundColor = 'rgb(32, 32, 104)';
 }
 
 for (let i = 0; i < cards.length; i++) {
